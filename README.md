@@ -1,5 +1,5 @@
 # Offensive-Responses-Dataset 
-offensive responses from chinese chat records 
+Offensive responses from chinese chat records 
 ### Statistical characteristics of the offensive response dataset: 
 <img src="images/Capture.PNG" width = "330" height = "200" div align=center />
 The number of positive and negative samples in the dataset.
@@ -23,3 +23,5 @@ If a response is offensive, then it is further annotated according to the follow
 <img src="images/Capture2.PNG" width = "330" height = "200" div align=center />
 The proportions of three categories of offensive responses.
 <br /><br /><br />
+
+
